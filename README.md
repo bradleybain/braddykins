@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=bradleybain&color=red&label=MEOW&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=bradleybain&color=red&label=战&style=plastic)
